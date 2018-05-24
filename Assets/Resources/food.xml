@@ -1,0 +1,685 @@
+<foodlist>
+	<list>
+		<food id="1" name="ข้าวสวย (ข้าวขาว) 1 ทัพพี" cal="80" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="2" name="ข้าวสวย (ข้าวกล้อง) 1 ทัพพี" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="3" name="ข้าวต้ม (ข้าวขาว) 1 ถ้วย" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="4" name="ข้าวต้ม (ข้าวกล้อง) 1 ถ้วย" cal="80" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="5" name="ข้าวเหนียวนึ่ง 1 ทัพพี" cal="160" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="6" name="ขนมจีน 1 ทัพพี" cal="80" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="7" name="กุ้งทอดกระเทียมพริกไทย 3 ตัว" cal="259" cat1="1" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="8" name="กุ้งนางนึ่งนมสด" cal="185" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="9" name="กุ้งผัดพริกอ่อน" cal="235" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="10" name="กุ้งอบวุ้นเส้น" cal="300" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="11" name="กุนเชียงทอด 1 คู่เล็ก" cal="240" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="12" name="แกงกะหรี่ไก่" cal="450" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="13" name="แกงกะหรี่หมู" cal="325" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="14" name="แกงขี้เหล็ก" cal="195" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="15" name="แกงขี้เหล็กหมูย่าง" cal="245" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="16" name="แกงเขียวหวานไก่" cal="240" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="17" name="แกงเขียวหวานปลาดุก" cal="235" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="18" name="แกงเขียวหวานลูกชิ้นปลากราย" cal="240" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="19" name="แกงเขียวหวานหมู" cal="235" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="20" name="แกงจืดไข่เจียว" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="21" name="แกงจืดตำลึงหมูสับ" cal="90" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="22" name="แกงจืดเต้าหู้ยัดไส้" cal="110" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="23" name="แกงจืดเต้าหู้หมูสับ" cal="80" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="24" name="แกงจืดถั่วงอกหมูสับ" cal="50" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="25" name="แกงจืดฟักยัดไส้" cal="90" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="26" name="แกงจืดมะระยัดไส้" cal="90" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="27" name="แกงจืดวุ้นเส้น" cal="115" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="28" name="แกงไตปลา" cal="50" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="29" name="แกงป่าไก่" cal="130" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="30" name="แกงเผ็ดไก่ใส่มะเขือเปราะ" cal="235" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="31" name="แกงเผ็ดไก่ใส่หน่อไม้" cal="245" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="32" name="แกงเผ็ดเป็ดย่าง" cal="240" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="33" name="แกงเผ็ดฟักทองใส่หมู" cal="250" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="34" name="แกงเผ็ดลูกชิ้นปลา" cal="240" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="35" name="แกงเผ็ดหมูยอดมะพร้าว" cal="245" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="36" name="แกงมัสมั่นไก่" cal="325" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="37" name="แกงเลียง" cal="115" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="38" name="แกงส้มชะอมชุบไข่ทอดกับกุ้ง" cal="270" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="39" name="แกงส้มดอกแคกับกุ้ง" cal="105" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="40" name="แกงส้มปลาแป๊ะซะ" cal="160" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="41" name="แกงส้มผักกะเฉด-ปลา" cal="110" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="42" name="แกงส้มผักบุ้งปลาช่อน" cal="105" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="43" name="แกงส้มผักรวม" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="44" name="แกงส้มผักรวมกุ้ง" cal="105" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="45" name="แกงหมูเทโพ" cal="300" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="46" name="แกงเหลืองมะละกอกับกุ้ง" cal="80" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="47" name="แกงเหลืองหน่อไม้ดองกับปลา" cal="80" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="48" name="ไก่ตุ๋นฟักมะนาวดอง" cal="110" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="49" name="ไก่ทอด 1 น่อง" cal="345" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="50" name="ไก่ทอด 1 สะโพก" cal="420" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="51" name="ไก่ผัดขิง" cal="210" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="52" name="ไก่ย่าง 1 น่อง" cal="165" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="53" name="ไข่เค็ม 1 ฟอง" cal="75" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="54" name="ไข่เจียว 1 ฟอง" cal="250" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="55" name="ไข่เจียวหมูสับ" cal="200" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="56" name="ไข่ดาว" cal="165" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="57" name="ไข่ดาวทรงเครื่อง" cal="250" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="58" name="ไข่ต้มน้ำปลามะนาว 1 ฟอง" cal="75" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="59" name="ไข่ตุ๋น 1 ฟอง" cal="75" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="60" name="ไข่พะโล้" cal="180" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="61" name="ไข่ยัดไส้" cal="310" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="62" name="ไข่ลวก 1 ฟอง" cal="75" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="63" name="ไข่ลูกเขย 1 ฟอง" cal="205" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="64" name="คอหมูย่าง" cal="200" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="65" name="คะน้าหมูกรอบ" cal="420" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="66" name="เครื่องในไก่ผัดขิง" cal="200" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="67" name="แคบหมูมีมัน 5 ชิ้นเล็ก" cal="65" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="68" name="แคบหมูไร้มัน 5 ชิ้นเล็ก" cal="50" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="69" name="แจ่วบอง" cal="25" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="70" name="ซุปหน่อไม้" cal="40" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="71" name="ต้มกะทิสายบัวปลาทูนึ่ง" cal="225" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="72" name="ต้มข่าไก่" cal="210" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="73" name="ต้มโคล้งไก่ย่าง" cal="115" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="74" name="ต้มโคล้งปลากรอบ" cal="60" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="75" name="ต้มจับฉ่าย" cal="180" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="76" name="ต้มตือฮวน" cal="160" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="77" name="ต้มผักกาดดองซี่โครงหมู" cal="90" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="78" name="ต้มยำกุ้ง" cal="65" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="79" name="ต้มยำไก่-ใส่เห็ด" cal="80" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="80" name="ต้มยำปลากระป๋อง" cal="55" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="81" name="ต้มยำปลากระพง" cal="80" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="82" name="ต้มยำเห็ดสด" cal="30" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="83" name="ต้มส้มปลาทู" cal="130" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="84" name="ต้มหัวผักกาดขาวซี่โครงหมู" cal="90" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="85" name="ตับไก่ปิ้ง 1 ไม้" cal="60" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="86" name="ทอดมันกุ้ง" cal="255" cat1="0" cat2="0" cat3="1" cat4="1" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="87" name="ทอดมันปลากราย" cal="230" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="88" name="กุ้งเทมปุระ 3 ชิ้น" cal="250" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="89" name="นักเก็ตไก่ 6 ชิ้น" cal="290" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="90" name="น้ำพริกกะปิผักสด" cal="55" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="91" name="น้ำพริกปลาป่น" cal="35" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="92" name="น้ำพริกมะขามเปียก" cal="55" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="93" name="น้ำพริกมะขามสด" cal="210" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="94" name="น้ำพริกมะม่วง" cal="100" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="95" name="น้ำพริกลงเรือ" cal="195" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="96" name="น้ำพริกหนุ่ม" cal="35" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="97" name="น้ำพริกอ่อง" cal="160" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="98" name="เนื้อเค็มทอด 3x5 นิ้ว" cal="280" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="99" name="เนื้อน้ำตก" cal="165" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="100" name="เบคอนทอด 80 กรัม" cal="288" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="101" name="ปลากระพงนึ่งมะนาว" cal="155" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="102" name="ปลาช่อนอบเกลือ 1 ตัว" cal="220" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="103" name="ปลาซาบะย่าง 1 ตัว" cal="220" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="104" name="ปลาดุกย่างน้ำปลามะนาว" cal="165" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="105" name="ปลาทอดสามรส" cal="470" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="106" name="ปลาทูทอด 1 ตัว" cal="280" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="107" name="ปลาราดพริก" cal="300" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="108" name="ปลาร้าทรงเครื่อง" cal="155" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="109" name="ปลาร้าสับ" cal="35" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="110" name="ปลาเล็กปลาน้อยทอดกรอบ 1 ช้อนโต๊ะ" cal="80" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="111" name="ปลาสลิดทอด" cal="190" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="112" name="ปลาสำลีแดดเดียวยำมะม่วง" cal="415" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="113" name="ปลาหมึกนึ่งมะนาว" cal="75" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="114" name="ปลาหมึกผัดฉ่า" cal="260" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="115" name="ปลาอินทรีย์เค็มทอด" cal="115" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="116" name="เป็ดตุ๋นมะนาวดอง" cal="110" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="117" name="เป็ดพะโล้" cal="110" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="118" name="ผัดกะหล่ำปลีหมู กุ้ง" cal="230" cat1="0" cat2="0" cat3="1" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="119" name="ผัดคะน้าปลาเค็ม" cal="200" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="120" name="ผัดไชโป๊วใส่ไข่" cal="125" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="121" name="ผัดดอกกะหล่ำกับกุ้ง" cal="210" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="122" name="ผัดดอกกุ่ยช่ายกับตับ" cal="210" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="123" name="ผัดถั่วงอกกับเต้าหู้" cal="155" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="124" name="ผัดถั่วลันเตากับกุ้ง" cal="190" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="125" name="ผัดบล็อคโคลี่กับกุ้ง" cal="210" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="126" name="ผัดบวบใส่ไข่" cal="210" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="127" name="ผัดเปรี้ยวหวานไก่" cal="215" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="128" name="ผัดผักกระเฉดน้ำมันหอย" cal="185" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="129" name="ผัดผักกาดขาวหมูวุ้นเส้น" cal="230" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="130" name="ผัดผักกาดดองใส่ไข่" cal="205" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="131" name="ผัดผักบุ้งไฟแดง" cal="210" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="132" name="ผัดผักรวมกับหมู" cal="210" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="133" name="ผัดเผ็ดปลาดุก" cal="200" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="134" name="ผัดเผ็ดปลากรอบ" cal="290" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="135" name="ผัดเผ็ดหมูกับมะเขือ" cal="250" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="136" name="ผัดพริกแกงหมูกับหน่อไม้" cal="200" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="137" name="ผัดพริกขิงกุ้งกับถั่วฝักยาว" cal="245" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="138" name="ผัดพริกขิงหมูกับถั่วฝักยาว" cal="265" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="139" name="ผัดฟักทองใส่ไข่" cal="255" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="140" name="ผัดมะเขือยาวหมูสับ" cal="210" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="141" name="ผัดยอดมะระน้ำมันหอย" cal="185" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="142" name="ผัดวุ้นเส้นใส่ไข่" cal="265" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="143" name="ผัดสะตอกับหมู กุ้ง" cal="200" cat1="0" cat2="0" cat3="1" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="144" name="ผัดหน่อไม้กับไข่" cal="200" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="145" name="ผัดหน่อไม้ฝรั่งกับกุ้ง" cal="230" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="146" name="พะแนงไก่" cal="230" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="147" name="ฟักตุ๋นไก่มะนาวดอง" cal="125" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="148" name="ยำกุนเชียง" cal="220" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="149" name="ยำไข่ต้ม 1 ฟอง" cal="105" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="150" name="ยำถั่วพู" cal="185" cat1="0" cat2="0" cat3="1" cat4="1" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="151" name="ยำเนื้อย่าง" cal="165" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="152" name="ยำบะหมี่กึ่งสำเร็จรูป" cal="215" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="153" name="ยำปลากระป๋อง" cal="525" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="154" name="ยำปลาดุกฟู" cal="275" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="155" name="ยำผักกระเฉด" cal="115" cat1="0" cat2="0" cat3="1" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="156" name="ยำผักบุ้งทอดกรอบ" cal="310" cat1="0" cat2="0" cat3="1" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="157" name="ยำมะเขือยาว" cal="115" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="158" name="ยำรวมมิตรทะเล" cal="150" cat1="0" cat2="0" cat3="1" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="159" name="ยำวุ้นเส้น" cal="120" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="160" name="ยำไส้กรอก" cal="110" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="161" name="ยำหนังหมู" cal="220" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="162" name="ยำหมูย่าง" cal="165" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="163" name="ลาบไก่" cal="125" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="164" name="ลูกชิ้นทอด 6 ลูก" cal="210" cat1="0" cat2="1" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="165" name="ส้มตำไทย" cal="55" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="166" name="ส้มตำปู" cal="32" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="167" name="สลัดผัก" cal="240" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="168" name="ไส้อั่ว 4 ชิ้น" cal="240" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="169" name="หมูกรอบ" cal="560" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="170" name="หมูทอดกระเทียมพริกไทย 3x5 นิ้ว" cal="245" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="171" name="หมูน้ำตก" cal="165" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="172" name="หมูผัดขิง" cal="275" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="173" name="หมูแผ่น 1 แผ่น" cal="120" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="174" name="หมูฝอย 2 ช้อนโต๊ะ" cal="135" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="175" name="หมูยอชุบแป้งทอด 2 ชิ้น" cal="250" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="176" name="หมูหยอง 2 ช้อนโต๊ะ" cal="75" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="177" name="หลนปูเค็มผักสด" cal="205" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="178" name="หอยแมลงภู่อบหม้อดิน" cal="85" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="179" name="หอยแมลงภู่ทอดใส่ไข่" cal="428" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="180" name="แหนมสด" cal="175" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="181" name="กระเพาะปลา" cal="150" cat1="1" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="182" name="กระเพาะปลาตุ๋นน้ำแดง" cal="225" cat1="1" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="183" name="ก๋วยจั๊บ" cal="240" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="184" name="ก๋วยจั๊บญวณ" cal="235" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="185" name="ก๋วยเตี๋ยวแขก" cal="380" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="186" name="ก๋วยเตี๋ยวคั่วไก่" cal="435" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="187" name="ก๋วยเตี๋ยวต้มยำกุ้ง" cal="320" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="188" name="ก๋วยเตี๋ยวเนื้อเรียง" cal="370" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="189" name="ก๋วยเตี๋ยวเนื้อสับ" cal="370" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="190" name="ก๋วยเตี๋ยวผัดกะเพราไก่" cal="440" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="191" name="ก๋วยเตี๋ยวผัดไทยกุ้งสดใส่ไข่" cal="545" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="192" name="ก๋วยเตี๋ยวราดหน้าปลากะพง" cal="435" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="193" name="ก๋วยเตี๋ยวเรือน้ำตกน้ำ" cal="180" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="194" name="ก๋วยเตี๋ยวเรือน้ำตกแห้ง" cal="225" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="195" name="ก๋วยเตี๋ยวเส้นปลาน้ำ" cal="375" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="196" name="ก๋วยเตี๋ยวเส้นปลาแห้ง" cal="420" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="197" name="ก๋วยเตี๋ยวเส้นเล็กต้มยำหมู" cal="335" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="198" name="ก๋วยเตี๋ยวเส้นเล็กหมูแห้ง" cal="330" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="199" name="ก๋วยเตี๋ยวเส้นใหญ่ผัดซีอิ๊วใส่ไข่" cal="520" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="200" name="ก๋วยเตี๋ยวเส้นใหญ่ราดหน้าหมู" cal="405" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="201" name="ก๋วยเตี๋ยวหลอด" cal="225" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="202" name="บะหมี่ต้มยำ" cal="310" cat1="1" cat2="0" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="203" name="ก๋วยเตี๋ยวเส้นใหญ่เย็นตาโฟน้ำ" cal="352" cat1="1" cat2="0" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="204" name="ก๋วยเตี๋ยวเป็ด" cal="330" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="205" name="ก๋วยเตี๋ยวน้ำน่องไก่ตุ๋น" cal="428" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="206" name="ก๋วยเตี๋ยวเส้นหมี่ลูกชิ้นเนื้อวัว" cal="226" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="207" name="ก๋วยเตี๋ยวลุยสวน (ใส่อกไก่ต้มฉีก)" cal="203" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="208" name="เกาเหลาลูกชิ้นน้ำใส" cal="225" cat1="1" cat2="0" cat3="1" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="209" name="เกี๊ยวกรอบราดหน้ากุ้ง" cal="632" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="210" name="เกี๊ยวน้ำกุ้ง" cal="275" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="211" name="เกี๊ยวปลาน้ำ" cal="165" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="212" name="โกยซีหมี่" cal="550" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="213" name="ขนมจีนซาวน้ำ" cal="320" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="214" name="ขนมจีนน้ำเงี๊ยว" cal="305" cat1="1" cat2="1" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="215" name="ขนมจีนน้ำพริก" cal="450" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="216" name="ขนมจีนน้ำยา" cal="375" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="217" name="ขนมจีนน้ำยาปักษ์ใต้" cal="330" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="218" name="ขนมหัวผักกาดผัด" cal="560" cat1="1" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="219" name="ขนมหัวผักกาดผัดใส่ไข่" cal="630" cat1="1" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="220" name="ข้าวซอยไก่,หมู" cal="395" cat1="1" cat2="1" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="221" name="ข้าวปุ้น (ส้มตำ-ขนมจีน)" cal="180" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="222" name="ข้าวสตูว์ไก่" cal="465" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="223" name="ข้าวกุ้งทอดกระเทียมพริกไทย" cal="495" cat1="1" cat2="0" cat3="0" cat4="1" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="224" name="ข้าวไก่อบ" cal="490" cat1="1" cat2="1" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="225" name="ข้าวขาหมู" cal="690" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="226" name="ข้าวไข่เจียว" cal="445" cat1="1" cat2="0" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="227" name="ข้าวหมูพะโล้ใส่เต้าหู้ทอด+ไข่1ฟอง" cal="330" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="228" name="ข้าวคลุกกะปิ" cal="410" cat1="1" cat2="0" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="229" name="ข้าวแช่" cal="350" cat1="1" cat2="0" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="230" name="ข้าวผัดกะเพรากุ้ง" cal="450" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="231" name="ข้าวผัดกะเพราไก่" cal="465" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="232" name="ข้าวผัดกะเพราหมู" cal="580" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="233" name="ข้าวผัดกุ้งใส่ไข่" cal="595" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="234" name="ข้าวผัดกุนเชียง" cal="590" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="235" name="ข้าวผัดแกงเขียวหวานไก่" cal="630" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="236" name="ข้าวผัดคะน้าหมูกรอบ" cal="670" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="237" name="ข้าวผัดต้มยำทะเลแห้ง" cal="400" cat1="1" cat2="0" cat3="0" cat4="1" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="238" name="ข้าวผัดน้ำพริกกุ้งสด" cal="460" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="239" name="ข้าวผัดน้ำพริกลงเรือ" cal="605" cat1="1" cat2="0" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="240" name="ข้าวผัดปลาเค็ม" cal="405" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="241" name="ข้าวผัดปลาหมึกน้ำพริกเผา" cal="535" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="242" name="ข้าวผัดปูใส่ไข่" cal="610" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="243" name="ข้าวราดมัสมั่นไก่" cal="666" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="244" name="ข้าวราดเปรี้ยวหวานหมู" cal="390" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="245" name="ข้าวผัดผักกระเฉดหมูกรอบ" cal="600" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="246" name="ข้าวราดผัดผักบุ้งไฟแดง" cal="281" cat1="1" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="247" name="ข้าวราดผัดผักรวมมิตรหมู" cal="370" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="248" name="ข้าวราดผัดผักรวมมิตรเจ" cal="508" cat1="1" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="249" name="ข้าวผัดมันกุ้งใส่ไข่" cal="575" cat1="1" cat2="0" cat3="0" cat4="1" cat5="0" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="250" name="ข้าวผัดสัปปะรด" cal="335" cat1="1" cat2="1" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="251" name="ข้าวผัดไส้กรอก" cal="520" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="252" name="ข้าวผัดหนำเลียบ-หมู-ไข่" cal="370" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="253" name="ข้าวผัดหมูน้ำพริกเผา" cal="665" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="254" name="ข้าวผัดหมูใส่ไข่" cal="660" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="255" name="ข้าวผัดแหนม" cal="610" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="256" name="ข้าวผัดอเมริกัน" cal="790" cat1="1" cat2="1" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="257" name="ข้าวมันไก่" cal="585" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="258" name="ข้าวมันไก่ทอด" cal="695" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="259" name="ข้าวมันส้มตำเนื้อผัดหวาน" cal="590" cat1="1" cat2="0" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="260" name="ข้าวยำปักษ์ใต้" cal="180" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="261" name="ข้าวน้ำพริกกะปิ+ปลาทูทอด+ผัก" cal="503" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="262" name="ข้าวราดแกงเขียวหวานไก่" cal="483" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="263" name="ข้าวราดแกงเขียวหวานลูกชิ้น" cal="503" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="264" name="ข้าวราดหน้าไก่" cal="400" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="265" name="ข้าวหน้ากุ้งผัดพริกสด" cal="540" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="266" name="ข้าวหน้าเป็ด" cal="495" cat1="1" cat2="1" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="267" name="ข้าวหน้าเป็ดย่าง" cal="423" cat1="1" cat2="1" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="268" name="ข้าวหมกไก่" cal="540" cat1="1" cat2="1" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="269" name="ข้าวหมูกระเทียม" cal="525" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="270" name="ข้าวหมูแดง" cal="560" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="271" name="ข้าวเหนียวหมูทอด" cal="440" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="272" name="ข้าวเหนียวหมูสวรรค์" cal="480" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="273" name="ข้าวอบเผือก" cal="385" cat1="1" cat2="0" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="274" name="ครีมซุปไก่" cal="160" cat1="1" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="275" name="โจ๊กหมู" cal="160" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="276" name="โจ๊กหมูตับ ไข่ลวก" cal="230" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="277" name="ซุปข้าวโพด" cal="140" cat1="1" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="278" name="ซุปใส (ผัก)" cal="15" cat1="1" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="279" name="บะหมี่กรอบราดหน้า" cal="515" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="280" name="บะหมี่กรอบราดหน้าไก่ หน่อไม้" cal="660" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="281" name="บะหมี่กรอบราดหน้ารวมมิตร" cal="690" cat1="1" cat2="0" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="282" name="บะหมี่กึ่งสำเร็จรูปผัดกะเพราหมู" cal="540" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="283" name="บะหมี่กึ่งสำเร็จรูปผัดขี้เมา" cal="530" cat1="1" cat2="0" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="284" name="บะหมี่เกี๊ยวเป็ดย่าง" cal="415" cat1="1" cat2="1" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="285" name="บะหมี่เกี๊ยวหมูแดง-น้ำ" cal="305" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="286" name="บะหมี่น่องไก่-น้ำ" cal="375" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="287" name="บะหมี่น้ำต้มยำหมู" cal="300" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="288" name="บะหมี่เป็ดน้ำ" cal="370" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="289" name="บะหมี่แห้งหมูแดง" cal="345" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="290" name="บาร์บีคิวซี่โครงหมู ข้าวคลุกเนย" cal="340" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="291" name="ปลาชุบแป้งทอด สลัดผัก" cal="595" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="292" name="ปลาแซลมอนย่าง" cal="260" cat1="1" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="293" name="ปลาราดซอสมะนาว มันฝรั่งทอด" cal="560" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="294" name="ปีกไก่สอดไส้ทอด" cal="310" cat1="1" cat2="1" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="295" name="ผัดไทยห่อไข่" cal="565" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="296" name="ผัดไทยไร้เส้น" cal="350" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="297" name="เฝอ" cal="240" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="298" name="พอร์คชอปทอดผัดผักเนย" cal="545" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="299" name="มักกะโรนีขี้เมาไก่" cal="520" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="300" name="มักกะโรนีผัดกุ้ง" cal="420" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="301" name="ยากิโซบะ" cal="400" cat1="1" cat2="1" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="302" name="ยำขนมจีน" cal="220" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="303" name="เย็นตาโฟน้ำ" cal="290" cat1="1" cat2="0" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="304" name="โรตีแกงเนื้อ, หมู" cal="675" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="305" name="วุ้นเส้นผัดไทยกุ้งสด" cal="520" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="306" name="สเต็กไก่ทอดมันบด" cal="615" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="307" name="สเต็กปลาย่าง" cal="260" cat1="1" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="308" name="สเต็กหมูผักสดคลุก" cal="505" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="309" name="สเต็กหมูสลัดผักสด" cal="375" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="310" name="สลัดแขก" cal="230" cat1="1" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="311" name="สลัดเนื้อสันในทอด" cal="490" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="312" name="ไส้กรอกเนื้อลูกวัวอบสลัดผัก" cal="465" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="313" name="สปาเกตตี้กะเพรากุ้ง" cal="485" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="314" name="สปาเกตตี้ไก่อบ" cal="430" cat1="1" cat2="1" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="315" name="สุกี้ยากี้ไก่-น้ำ" cal="345" cat1="1" cat2="1" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="316" name="สุกี้ยากี้แห้งทะเล" cal="280" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="317" name="เส้นจันทน์ผัดปู" cal="575" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="318" name="เส้นหมี่ลูกชิ้นน้ำใส" cal="225" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="319" name="เส้นหมี่ลูกชิ้นหมูแห้ง" cal="430" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="320" name="หมี่กรอบราดหน้าหมู" cal="690" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="321" name="หมี่กะทิ" cal="405" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="322" name="หมี่ซั่วผัด" cal="395" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="323" name="หมูย่างเกาหลี" cal="375" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="324" name="หมูกะทะ" cal="375" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="325" name="หมูคลุกเกร็ดขนมปังทอดราดซอส" cal="645" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="326" name="หมูจุ่ม" cal="375" cat1="1" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="327" name="หมูทอดเนยสลัดน้ำใส" cal="635" cat1="1" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="328" name="หอมแมลงภู่ทอด" cal="605" cat1="1" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="329" name="กระทงทองไส้ไก่ ซอสขาว 3 ชิ้น" cal="280" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="330" name="กระทงทองไส้ข้าวโพด 3 ชิ้น" cal="215" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="331" name="กระท้อนทรงเครื่อง 1 ผล" cal="205" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="332" name="กระยาสารท 1x3 นิ้ว" cal="210" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="333" name="กล้วยแขก 3 ชิ้น" cal="255" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="334" name="กล้วยไข่เชื่อม 2 ผล" cal="177" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="335" name="กล้วยคลุกมะพร้าว 1 ถ้วย" cal="100" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="336" name="กล้วยฉาบ 9 ชิ้น" cal="200" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="337" name="กล้วยต้มจิ้มมะพร้าว 1 ถ้วย" cal="180" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="338" name="กล้วยน้ำว้าปิ้ง 1 ผล" cal="90" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="339" name="กล้วยบวดชี 1 ถ้วย" cal="230" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="340" name="กล้วยปิ้งชุบกะทิ 1 ผล" cal="180" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="341" name="กะละแม 3 ห่อเล็ก" cal="195" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="342" name="กะหรี่พัฟ 2 ชิ้น" cal="380" cat1="0" cat2="1" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="343" name="กุยช่าย (นึ่ง) 1 อัน" cal="140" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="344" name="เกี๊ยวกรอบ 3 ชิ้น" cal="235" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="345" name="เกี๊ยวซ่า 3 ชิ้น" cal="190" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="346" name="โก๋แก่รสต่างๆ 15 เม็ด" cal="55" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="347" name="ขนมกรวย 3 กรวย" cal="190" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="348" name="ขนมกล้วย 2 ห่อ" cal="240" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="349" name="ขนมขี้หนู 1 ถ้วย" cal="165" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="350" name="ขนมเข่ง 1 กระทง" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="351" name="ขนมครก 2 คู่" cal="210" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="352" name="ขนมจีบ 3 ลูก" cal="120" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="353" name="ขนมชั้น 2 ชิ้น" cal="184" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="354" name="ขนมต้มขาว 4 ลูก" cal="165" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="355" name="ขนมตาล 2 กระทง" cal="115" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="356" name="ขนมถ้วย 2 ถ้วย" cal="265" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="357" name="ขนมถั่วแปบ 3 ตัว" cal="43" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="358" name="ขนมเทียน 2 อัน" cal="205" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="359" name="ขนมน้ำดอกไม้ 9 ชิ้น" cal="190" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="360" name="ขนมบ้าบิ่น 1 ชิ้น" cal="130" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="361" name="ขนมเบื้องไทยไส้เค็ม 1 แผ่น" cal="50" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="362" name="ขนมเบื้องไทยไส้หวาน 1 แผ่น" cal="650" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="363" name="ขนมเบื้องญวณ 1 แผ่น" cal="280" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="364" name="ขนมปังอบกรอบ 4 แผ่นเล็ก" cal="80" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="365" name="ขนมปลากริมไข่เต่า 1 ถ้วย" cal="250" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="366" name="ขนมเปียกปูน 1 ชิ้น" cal="95" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="367" name="ขนมเปี๊ยะไส้ถั่ว 2 ชิ้น" cal="130" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="368" name="ขนมฝักบัว 2 ชิ้น" cal="140" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="369" name="ขนมเล็บมือนาง 1 จานเล็ก" cal="27" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="370" name="ขนมสอดไส้ 3 ห่อเล็ก" cal="380" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="371" name="ขนมหม้อแกง 1 ชิ้น" cal="179" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="372" name="ข้าวเกรียบกุ้ง 3 แผ่น" cal="110" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="373" name="ข้าวเกรียบปากหม้อ 4 ชิ้น" cal="205" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="374" name="ข้าวตังหน้าตั้ง 3 ชิ้น" cal="280" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="375" name="ข้าวตังหมูหยอง 2 แผ่น" cal="160" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="376" name="ข้าวต้มมัด 1 มัด" cal="285" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="377" name="ข้าวแตน 1 แผ่น" cal="150" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="378" name="ข้าวโพดคั่ว (เคลือบน้ำตาล) 1 ถ้วย" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="379" name="ข้าวโพดคลุก 1 จานเล็ก" cal="156" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="380" name="ข้าวโพดต้ม 1 ฝักเล็ก" cal="200" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="381" name="ข้าวเม่าทอด 2 ลูก" cal="418" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="382" name="ข้าวหลาม 1 กระบอก" cal="230" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="383" name="ข้าวเหนียวกะทิทุเรียน 1 ถ้วย" cal="225" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="384" name="ข้าวเหนียวดำเปียก 1 ถ้วย" cal="205" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="385" name="ข้าวเหนียวตัด 1 ชิ้น" cal="210" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="386" name="ข้าวเหนียวมูลน้ำกะทิ 1 ชิ้นเล็ก" cal="197" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="387" name="ข้าวเหนียวสังขยา" cal="370" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="388" name="ข้าวเหนียวหน้ากุ้ง" cal="179" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="389" name="ไข่นกกระทา" cal="191" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="390" name="ไข่หงส์" cal="174" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="391" name="ครองแครง" cal="425" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="392" name="ครองแครงกะทิ" cal="250" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="393" name="คัสตาร์ดน้ำตาลไหม้" cal="230" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="394" name="จาวตาลเชื่อม" cal="190" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="395" name="เฉาก๊วย" cal="90" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="396" name="ช็อคโกแลต" cal="170" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="397" name="ซาลาเปาไส้หมู" cal="120" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="398" name="ซ่าหริ่ม" cal="275" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="399" name="ตะโก้แห้ว" cal="235" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="400" name="เต้าส่วน" cal="215" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="401" name="เต้าหู้ทอด" cal="260" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="402" name="เต้าหู้นมสด" cal="150" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="403" name="เต้าฮวยน้ำขิง" cal="130" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="404" name="เต้าฮวยฟรุตสลัด" cal="1510" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="405" name="ถั่วเขียวต้มน้ำตาล" cal="160" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="406" name="ถั่วแระต้ม" cal="25" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="407" name="ถั่วลิสงต้ม 1 ช้อนโต๊ะ" cal="45" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="408" name="ถั่วลิสงแผ่นทอด 1 แผ่น" cal="150" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="409" name="ทองหยิบ 2 ดอก" cal="210" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="410" name="ทองม้วน 3 อันเล็ก" cal="105" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="411" name="ทับทิมกรอบ 1 ถ้วย" cal="250" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="412" name="ท๊อฟฟี่นม 1 เม็ด" cal="20" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="413" name="ทุเรียนกวน 1 ช้อนโต๊ะ" cal="115" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="414" name="ทุเรียนทอดกรอบ 7-8 ชิ้น" cal="50" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="415" name="บะจ่าง 1 ลูก" cal="300" cat1="0" cat2="0" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="416" name="บัวลอย 1 ถ้วย" cal="223" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="417" name="บัวลอยน้ำขิง 1 ถ้วย" cal="160" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="418" name="บัวลอยเผือก 1 ถ้วย" cal="300" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="419" name="ป๊อปคอร์น 1 ถ้วย" cal="654" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="420" name="ปอเปี๊ยะทอด 2 ชิ้น" cal="315" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="421" name="ปอเปี๊ยะสด 1 ชิ้น" cal="175" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="422" name="ปาท่องโก๋ 1 คู่กลาง" cal="270" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="423" name="เผือกเชื่อม 1 จานเล็ก" cal="220" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="424" name="เผือกน้ำกะทิ 1 ถ้วย" cal="250" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="425" name="เผือกสอดไส้ทอด 1 ชิ้น" cal="260" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="426" name="ฝอยทอง 1 แพ" cal="146" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="427" name="เฟรนฟรายด์ขนาดกลาง" cal="312" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="428" name="ฟรุตสลัด 1 ถ้วย" cal="180" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="429" name="ฟักทองแกงบวด 1 ถ้วย" cal="185" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="430" name="ฟักทองเชื่อม 1 จานเล็ก" cal="167" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="431" name="ฟักทองนึ่งโรยมะพร้าว 1 จานเล็ก" cal="188" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="432" name="มะกอกแช่อิ่ม 5 ผล" cal="135" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="433" name="มะกอกทรงเครื่อง 5 ผล" cal="165" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="434" name="มะขามคลุก 6 เม็ด" cal="10" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="435" name="มะดันแช่อิ่ม 1 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="436" name="มะม่วงน้ำปลาหวาน 5 ชิ้น" cal="165" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="437" name="มะยมเชื่อม 5 เม็ด" cal="135" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="438" name="มะยมหยี 5 เม็ด" cal="135" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="439" name="มันแกงบวด 1 ถ้วย" cal="184" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="440" name="มันทอด 2 ชิ้น" cal="248" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="441" name="มันเทศเชื่อม 1 จานเล็ก" cal="230" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="442" name="มันรังนก 2 ก้อน" cal="95" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="443" name="มันสำปะหลังปิ้งชุบกะทิ 1 ชิ้น" cal="165" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="444" name="มันฝรั่งแผ่นทอด (Chip) 6 ชิ้น" cal="80" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="445" name="เม็ดขนุน 5 เม็ด" cal="174" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="446" name="เม็ดมะม่วงหิมพานต์อบเนย 8-10 เม็ด" cal="110" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="447" name="เมล็ดแตงโมแห้ง 1 ช้อนโต๊ะ" cal="45" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="448" name="เมล็ดทานตะวันอบกรอบ 1 ช้อนโต๊ะ" cal="45" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="449" name="เมล็ดฟักทองอบกรอบ 1 ช้อนโต๊ะ" cal="55" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="450" name="เมี่ยงก๋วยเตี๋ยว 3 คำ" cal="60" cat1="0" cat2="0" cat3="1" cat4="1" cat5="1" cat6="1" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="451" name="เมี่ยงคะน้า 3 คำ" cal="60" cat1="0" cat2="0" cat3="1" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="452" name="เมี่ยงคำ 3 คำ" cal="90" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="453" name="แมงลักน้ำกะทิ 1 ถ้วย" cal="112" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="454" name="เยลลี่ถ้วย 2 ถ้วย" cal="80" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="455" name="รวมมิตร 1 ถ้วย" cal="230" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="456" name="โรตีสายไหม 1 อัน" cal="145" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="457" name="ลอดช่องน้ำกะทิ 1 ถ้วย" cal="210" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="458" name="ลอดช่องสิงคโปร์ 1 ถ้วย" cal="215" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="459" name="สาคูไส้หมู 4 ลูก" cal="205" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="460" name="ลิ้นจี่ในน้ำเชื่อม 1 ถ้วย" cal="110" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="461" name="ลูกชิ้นปิ้ง 1 ไม้" cal="165" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="462" name="ลูกชุบ 3 ชิ้น" cal="170" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="463" name="ลูกเดือยต้มน้ำตาล 1 ถ้วย" cal="140" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="464" name="ลูกตาลลอยแก้ว 1 ถ้วย" cal="180" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="465" name="ลำไยในน้ำเชื่อม 1 ถ้วย" cal="180" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="466" name="วุ้นกะทิ 1 ชิ้น" cal="215" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="467" name="วุ้นมะพร้าวอ่อน 1 ชิ้น" cal="80" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="468" name="สังขยา 1 ชิ้นเล็ก" cal="204" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="469" name="สังขยาเผือก 1 ชิ้นเล็ก" cal="222" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="470" name="สังขยาฟักทอง 1 ชิ้นเล็ก" cal="288" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="1" ></food>
+		<food id="471" name="สาเกเชื่อมราดกะทิ 1 ชิ้น" cal="235" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="472" name="สาคูบัวลอย 1 ถ้วย" cal="162" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="473" name="สาคูเปียกรวมมิตร 1 ถ้วย" cal="170" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="474" name="สาลี่ 1 ชิ้น" cal="116" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="475" name="ไส้กรอกทอด 1 ชิ้น" cal="280" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="476" name="ไส้กรอกเวียนนาไก่ 100 กรัม" cal="335" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="477" name="ไส้กรอกเวียนนาหมู 100 กรัม" cal="263" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="478" name="ไส้กรอกอีสาน 1 อัน" cal="90" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="480" name="หมูปิ้ง 2 ไม้" cal="150" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="481" name="หมูสะเต๊ะ 2 ไม้" cal="230" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="482" name="แหนมสดข้าวทอด 1 จาน" cal="290" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="1" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="483" name="อัลมอนต์อบเกลือ 1 ช้อนโต๊ะ" cal="45" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="484" name="อาลัว 4 ชิ้น" cal="145" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="485" name="ไอศกรีมกะทิ 1 ก้อน" cal="108" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="486" name="ไอศกรีมกาแฟ 1 ก้อน" cal="142" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="487" name="ไอศกรีมชอกโกแลต 1 ก้อน" cal="110" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="488" name="ไอศกรีมเรซิน 1 ก้อน" cal="264" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="489" name="ไอศกรีมวานิลลา 1 ก้อน" cal="140" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="490" name="ไอศกรีมสตรอเบอรี่" cal="110" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="1" ></food>
+		<food id="491" name="ขนมปังกระเทียม 2 ชิ้น" cal="170" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="492" name="ขนมปังขาไก่ 1 ชิ้น" cal="65" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="493" name="ขนมปังน้ำสลัดหมูหยอง 1 ชิ้น" cal="230" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="494" name="ขนมปังปอนด์ 1 แผ่น" cal="80" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="495" name="ขนมปังมะพร้าว 1 ชิ้น" cal="235" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="496" name="ขนมปังสังขยา 1 ชิ้น" cal="230" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="497" name="ขนมปังไส้กรอก 1 ชิ้น" cal="130" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="498" name="ขนมปังไส้ไก่ 1 ชิ้น" cal="223" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="499" name="ขนมปังไส้หมูหยอง 1 ชิ้น" cal="185" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="500" name="ขนมปังฮาวายเอี้ยน 1 ชิ้น" cal="300" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="501" name="ขนมไหว้พระจันทร์ไส้ทุเรียนกวน 1 ชิ้น" cal="340" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="502" name="ขนมไหว้พระจันทร์ไส้ลูกบัว-ไข่เค็ม 1 ชิ้น" cal="375" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="503" name="ครีมโรล 1 ชิ้น" cal="360" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="504" name="คุ้กกี้ข้าวโอ๊ต 2 ชิ้น" cal="150" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="505" name="คุ้กกี้ช็อกโกแลตชิพ 2 ชิ้น" cal="235" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="506" name="คุ้กกี้ชาเขียว 1 ชิ้น" cal="150" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="507" name="คุ้กกี้เนย 2 ชิ้น" cal="210" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="508" name="คุ้กกี้สิงคโปร์ 2 ชิ้น" cal="190" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="509" name="คุ้กกี้ไส้สัปปะรด 1 ชิ้น" cal="190" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="510" name="เค้กกล้วยตาก 1 ชิ้น" cal="305" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="511" name="เค้กกล้วยหอม 1 ชิ้น" cal="370" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="512" name="เค้กช็อกโกแลต 1 ชิ้น" cal="275" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="513" name="เค้กเนย 1 ชิ้น" cal="255" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="514" name="เค้กเนยแต่งหน้า 1 ชิ้น" cal="405" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="515" name="เค้กใบเตย 1 ชิ้น" cal="250" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="516" name="ชิฟฟอนกาแฟ 1 ชิ้น" cal="275" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="517" name="ชิฟฟอนคัสตาร์ดเค้ก 1 ชิ้น" cal="340" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="518" name="แซนวิชไก่ 1 คู่" cal="240" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="519" name="แซนวิชทูน่า 1 คู่" cal="180" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="520" name="แซนวิชแฮมชีส 1 คู่" cal="290" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="521" name="เดนิสแฮม 1 ชิ้น" cal="385" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="522" name="โดนัทแยม น้ำตาล 1 ชิ้น" cal="270" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="523" name="โดนัทยีสต์ 1 ชิ้น" cal="250" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="524" name="บราวนี่ 1 ชิ้น" cal="340" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="525" name="บลูเบอร์รี่ชีสเค้ก 1 ชิ้น" cal="285" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="526" name="แบล็คฟลอเรสต์เค้ก 1 ชิ้น" cal="470" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="527" name="พายกรอบ (โรยน้ำตาล) 2 ชิ้น" cal="235" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="528" name="พายชีสบลูเบอร์รี่ 1 ชิ้น" cal="350" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="529" name="พายทูน่า 1 ชิ้น" cal="280" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="530" name="พายเผือก 1 ชิ้น" cal="425" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="531" name="พายสัปปะรด 1 ชิ้น" cal="505" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="532" name="พายไส้กรอก 1 ชิ้น" cal="400" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="533" name="พายไส้ไก่ 1 ชิ้น" cal="405" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="534" name="พายไส้แฮม 1 ชิ้น" cal="400" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="535" name="พิซซ่าทะเล 1 ชิ้น" cal="335" cat1="0" cat2="0" cat3="0" cat4="1" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="536" name="พิซซ่าไส้กรอก 1 ชิ้น" cal="290" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="537" name="พิซซ่าฮาวายเอี้ยน 1 ชิ้น" cal="345" cat1="0" cat2="0" cat3="1" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="538" name="ฟรุตเค้ก 1 ชิ้น" cal="400" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="539" name="ฟรุ๊ตบาร์ 1 ชิ้น" cal="305" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="1" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="540" name="แยมโรล 1 ชิ้น" cal="310" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="541" name="อัพไซต์ดาวน์เค้ก 1 ชิ้น" cal="395" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="542" name="เอแคร์ไส้ครีม 1 ชิ้น" cal="225" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="543" name="แฮมเบอเกอร์ชีสไก่ 1 ชิ้น" cal="280" cat1="0" cat2="1" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="544" name="แฮมเบอเกอร์เนื้อ 1 ชิ้น" cal="456" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="545" name="แฮมเบอเกอร์หมู 1 ชิ้น" cal="245" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="546" name="แฮมเบอเกอร์ปลาทอดและชีส" cal="360" cat1="0" cat2="0" cat3="0" cat4="1" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="547" name="ฮอทด็อก 1 ชิ้น" cal="398" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="548" name="ชีสเบอร์เกอร์ 1 ชิ้น" cal="320" cat1="0" cat2="0" cat3="1" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="549" name="กล้วยไข่ 1 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="550" name="กล้วยตาก 1-2 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="551" name="กล้วยน้ำว้า 1 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="552" name="กล้วยเล็บมือนาง 2 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="553" name="กล้วยหอม 1 ผล" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="554" name="แก้วมังกร 8 ชิ้นพอคำ" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="555" name="ขนุน 2 ยวง" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="556" name="แคนตาลูป 8 ชิ้นพอคำ" cal="30" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="557" name="เงาะ 4 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="558" name="ชมพู่ 2-3 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="559" name="ชมพู่เมืองเพชร 2-3 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="560" name="เชอรี่(มาราชิโน)" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="561" name="แตงไทย 8 ชิ้นพอคำ" cal="30" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="562" name="แตงโม 8 ชิ้นพอคำ" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="563" name="ทุเรียนกระดุม 100 กรัม" cal="129" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="564" name="ทุเรียนชะนี 100 กรัม" cal="165" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="565" name="น้อยหน่า 1-2 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="566" name="ฝรั่ง 1-2 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="567" name="ฝรั่งกลม (สาลี่) 1-2 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="568" name="พุทรา 4 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="569" name="มะกอกฝรั่ง 3 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="570" name="มะขามเทศ 3 ฝัก" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="571" name="มะขามหวาน 2 ฝัก" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="572" name="มะปรางสุก 3 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="573" name="มะเฟือง 1-2 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="574" name="มะไฟ 15 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="575" name="มะม่วงเขียวเสวย 1-2 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="576" name="มะม่วงน้ำดอกไม้สุก 4 ชิ้น" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="577" name="มะม่วงอกร่องสุก 4 ชิ้น" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="578" name="มะยม 15 ผล" cal="30" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="579" name="มะละกอ  8 ชิ้นพอคำ" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="580" name="มังคุด 4 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="581" name="ระกำ 4 ผล" cal="30" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="582" name="ลองกอง 10 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="583" name="ละมุด 1 ผลครึ่ง" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="584" name="ลางสาด 10 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="585" name="ลำไย 4 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="586" name="ลิ้นจี่ 4 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="587" name="ลูกเกด 15 เม็ด" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="588" name="ลูกตาลอ่อน 1 1/2 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="589" name="ลูกพลับ 1-2 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="590" name="สตรอเบอร์รี่ 6 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="591" name="ส้มเขียวหวาน 1 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="592" name="ส้มเช้ง 1 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="593" name="ส้มโอ 1 กลีบ" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="594" name="สละ (หวาน) 3 ผล" cal="30" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="595" name="สัปปะรด  8 ชิ้นพอคำ" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="596" name="สาลี่หอม 1 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="597" name="องุ่น (เปรี้ยวอมหวาน) 20 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="598" name="องุ่น (หวาน) 15 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="599" name="อ้อยควั่น 5 ชิ้น" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="600" name="แอปเปิ้ล 1-2 ผล" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="601" name="กาแฟเย็น" cal="115" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="602" name="กาแฟร้อน" cal="55" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="603" name="โกโก้" cal="210" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="604" name="ช็อคโกแลตเย็น" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="605" name="ช็อคโกแลตร้อน" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="606" name="ชาเขียว (รสหวาน)" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="607" name="ชาดำเย็น" cal="110" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="608" name="ชามะนาว" cal="100" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="609" name="ชาเย็น" cal="100" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="610" name="ชาร้อน" cal="55" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="611" name="นมจืด 250cc" cal="160" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="612" name="นมจืดไขมันต่ำ" cal="125" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="613" name="นมจืดไม่มีไขมัน" cal="80" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="614" name="นมถั่วเหลือง (หวานน้อย)" cal="140" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="615" name="นมปรุงแต่ง (รสหวาน)" cal="200" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="616" name="นมเปรี้ยว UHT รสผลไม้ (200cc)" cal="125" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="617" name="นมเย็น" cal="150" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="618" name="น้ำกระเจี๊ยบ" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="619" name="น้ำขิง (ขิงผงรสหวาน)" cal="60" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="620" name="น้ำจับเลี้ยง" cal="100" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="621" name="น้ำชาเขียว (250ml)" cal="70" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="622" name="น้ำชาเขียวผสมน้ำผึ้ง (250ml)" cal="70" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="623" name="น้ำเต้าหู้ (จืด)" cal="75" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="624" name="น้ำนมข้าวโพด" cal="80" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="625" name="น้ำใบเตย" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="626" name="น้ำใบบัวบก" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="627" name="น้ำผลไม้รวม" cal="100" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="628" name="น้ำผักรวม" cal="90" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="629" name="น้ำฝรั่ง 100% (200ml)" cal="100" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="630" name="น้ำมะเขือเทศ" cal="48" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="631" name="น้ำมะเขือเทศ 100% (200ml)" cal="50" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="632" name="น้ำมะตูม" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="633" name="น้ำมะนาว" cal="100" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="634" name="น้ำมะพร้าว" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="635" name="น้ำมะพร้าวผสมเนื้อ" cal="150" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="636" name="น้ำลำไย" cal="100" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="637" name="น้ำส้ม 100% (200ml)" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="638" name="น้ำส้มคั้น" cal="90" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="639" name="น้ำสัปปะรด" cal="125" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="640" name="น้ำสัปปะรด 100% (200ml)" cal="100" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="641" name="น้ำองุ่น" cal="112" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="642" name="น้ำองุ่นแดง 100% (200ml)" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="643" name="น้ำอ้อย" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="644" name="น้ำอัดลม (หวาน)" cal="75" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="645" name="น้ำอัดลมประเภทโคล่า (325cc)" cal="130" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="646" name="น้ำแอปเปิ้ลแดง 100% (20ml)" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="647" name="บรั่นดี (60cc)" cal="130" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="648" name="เบียร์ไทย" cal="148" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="649" name="มิลค์เชค" cal="150" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="650" name="แม่โขง (45cc)" cal="43" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="651" name="โยเกิร์ต (ไขมันต่ำรสผลไม้)" cal="160" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="652" name="โยเกิร์ต (รสธรรมชาติ)" cal="95" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="653" name="โยเกิร์ต (รสผลไม้)" cal="175" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="654" name="วอดก้า (60cc)" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="655" name="วิสกี้ (60cc)" cal="140" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="656" name="ไวน์เชอรี่ (60cc)" cal="84" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="657" name="ไวน์แชมเปญ (60cc)" cal="42" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="658" name="เหล้ายิน (60cc)" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="659" name="เหล้ารัม (60cc)" cal="120" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="660" name="โอเลี้ยง" cal="165" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="661" name="โอวัลติน" cal="210" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="662" name="เนย 1 ช้อนชา" cal="45" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="663" name="มาการีน 1 ช้อนชา" cal="45" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="1" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="664" name="หัวกะทิ 1 ช้อนชา" cal="45" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="665" name="น้ำตาลทราย 1 ช้อนชา" cal="20" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="1" ></food>
+		<food id="666" name="ครีมเทียม 1 ช้อนชา" cal="45" cat1="0" cat2="0" cat3="0" cat4="0" cat5="0" cat6="0" cat7="0" cat8="0" cat9="1" cat10="0" ></food>
+		<food id="667" name="แยม 1 ช้อนชา" cal="20" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="668" name="สังขยา (ทาขนมปัง) 1 ช้อนชา" cal="20" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="1" cat9="0" cat10="0" ></food>
+		<food id="669" name="ไข่ไก่-ไข่เป็ด 1ฟอง" cal="84" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="670" name="เต้าหู้เหลือง 1 อัน" cal="90" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="671" name="เต้าหู้ขาวอ่อน 1 หลอด" cal="110" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="672" name="งาขาว 100 กรัม" cal="628" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="673" name="งาดำ 100 กรัม" cal="593" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="674" name="เต้าเจี้ยวขาว 100 กรัม" cal="117" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="675" name="ถั่วเขียวดิบ 100 กรัม" cal="329" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="676" name="ถั่วแดงดิบ 100 กรัม" cal="315" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="677" name="ถั่วดำดิบ 100 กรัม" cal="332" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="678" name="ถั่วเหลืองดิบ 100 กรัม" cal="411" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="679" name="ถั่วลิสงดิบ 100 กรัม" cal="530" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="680" name="เมล็ดมะม่วงหิมพานต์ 100 กรัม" cal="493" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="681" name="เมล็ดบัวนึ่ง 100 กรัม" cal="157" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+		<food id="682" name="ลูกเดือย 100 กรัม" cal="365" cat1="0" cat2="0" cat3="0" cat4="0" cat5="1" cat6="0" cat7="0" cat8="0" cat9="0" cat10="0" ></food>
+	</list>
+</foodlist>

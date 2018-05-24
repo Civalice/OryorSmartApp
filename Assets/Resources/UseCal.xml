@@ -1,0 +1,42 @@
+<kcal>
+	<list>
+		<act name="ล้างรถยนต์" min="32" ></act>
+		<act name="ล้างจาน ชาม" min="41" ></act>
+		<act name="จัดเตรียมอาหาร" min="48" ></act>
+		<act name="ทำอาหาร" min="38" ></act>
+		<act name="ให้อาหารสัตว์เลี้ยง" min="38" ></act>
+		<act name="รีดผ้า" min="41" ></act>
+		<act name="ซักผ้าด้วยมือ" min="24" ></act>
+		<act name="ซักผ้าด้วยเครื่องซักผ้า" min="53" ></act>
+		<act name="ทำความสะอาดบ้าน" min="24-27" ></act>
+		<act name="เคลื่อนย้ายของ ยกของ" min="11" ></act>
+		<act name="ทำสวนปลูกต้นไม้" min="21" ></act>
+		<act name="เล่นดนตรี" min="48" ></act>
+		<act name="เดินซื้อของ" min="48" ></act>
+		<act name="เดินเร็ว" min="19" ></act>
+		<act name="จ๊อกกิ่ง" min="14" ></act>
+		<act name="วิ่ง / เดินขึ้นบันได" min="12" ></act>
+		<act name="เย็บผ้า" min="48" ></act>
+		<act name="ว่ายน้ำ" min="24" ></act>
+		<act name="ดำน้ำ" min="16" ></act>
+		<act name="พายเรือ" min="38" ></act>
+		<act name="แบดมินตัน" min="21" ></act>
+		<act name="บาสเกตบอล (แข่งขัน)" min="12" ></act>
+		<act name="บิลเลียด สนุกเกอร์" min="38" ></act>
+		<act name="โบลลิ่ง" min="32" ></act>
+		<act name="ชกมวย (แข่งขัน)" min="8" ></act>
+		<act name="ฟุตบอล (แข่งขัน)" min="10" ></act>
+		<act name="กอล์ฟ" min="32" ></act>
+		<act name="ขี่ม้า" min="32" ></act>
+		<act name="ยูโด คาราเต้ เทควันโด" min="10" ></act>
+		<act name="รักบี้" min="10" ></act>
+		<act name="ยิมนาสติก" min="24" ></act>
+		<act name="เทนนิสเดี่ยว" min="12" ></act>
+		<act name="เทนนิสคู่" min="19" ></act>
+		<act name="วอลเลย์บอล" min="12" ></act>
+		<act name="เต้นแอโรบิค" min="15" ></act>
+		<act name="ลีลาศ บัลเลต์" min="20" ></act>
+		<act name="ปั่นจักรยาน" min="16" ></act>
+		<act name="โยคะ" min="38" ></act>
+	</list>
+</kcal>

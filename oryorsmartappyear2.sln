@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oryorsmartappyear2.Plugins", "oryorsmartappyear2.Plugins.csproj", "{FD3CD34D-2772-207F-8CC2-A1D5D6D06DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oryorsmartappyear2", "oryorsmartappyear2.csproj", "{515D8980-8B10-44C1-95B0-B2D3DB458A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oryorsmartappyear2.Editor", "oryorsmartappyear2.Editor.csproj", "{A19CD6A0-E259-EC12-F7C0-7C17EEEC09F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD3CD34D-2772-207F-8CC2-A1D5D6D06DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3CD34D-2772-207F-8CC2-A1D5D6D06DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3CD34D-2772-207F-8CC2-A1D5D6D06DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3CD34D-2772-207F-8CC2-A1D5D6D06DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515D8980-8B10-44C1-95B0-B2D3DB458A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515D8980-8B10-44C1-95B0-B2D3DB458A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515D8980-8B10-44C1-95B0-B2D3DB458A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515D8980-8B10-44C1-95B0-B2D3DB458A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19CD6A0-E259-EC12-F7C0-7C17EEEC09F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19CD6A0-E259-EC12-F7C0-7C17EEEC09F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19CD6A0-E259-EC12-F7C0-7C17EEEC09F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19CD6A0-E259-EC12-F7C0-7C17EEEC09F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

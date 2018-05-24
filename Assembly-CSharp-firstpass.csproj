@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{274050D0-3043-ED81-99F5-1E8D2E212347}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_2;UNITY_5_5;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_VIDEO;ENABLE_VR;ENABLE_CLUSTERINPUT;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Plugins\LBSPlugin.cs" />
+     <Compile Include="Assets\Plugins\UniWebViewEventProcessor.cs" />
+     <Compile Include="Assets\Plugins\UniWebViewPluginAndroid.cs" />
+     <Compile Include="Assets\Plugins\UniWebViewPluginMacEditor.cs" />
+     <Compile Include="Assets\Plugins\UniWebViewPluginWP.cs" />
+     <Compile Include="Assets\Plugins\UniWebViewPluginiOS.cs" />
+     <None Include="Assets\Plugins\Android\AN_Res\res\values\ids.xml" />
+     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Bitmap-Mobile.shader" />
+     <None Include="Assets\UniWebView\ChangeLog.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\OneSignalSDK.txt" />
+     <None Include="Assets\Resources\UseCal.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\AN_Res\res\values\analytics.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\androidnative 1.txt" />
+     <None Include="Assets\JSON\readme.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
+     <None Include="Assets\Plugins\StansAssets\Android\androidnative 2.txt" />
+     <None Include="Assets\Font\Thai.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_SDF-Surface.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\AN_Res\AndroidManifest.xml" />
+     <None Include="Assets\Extensions\IOSNative\Documentation\ISN_VersionNotes.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_SDF.shader" />
+     <None Include="Assets\Plugins\Android\AN_Res\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_iAd.mm.txt" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_NSData+Base64.h.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\AndroidManifest.xml" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_SDF-Mobile Overlay.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\google_play\an_googleplay.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
+     <None Include="Assets\Plugins\StansAssets\Android\social\twitter4j-core-3.0.5.txt" />
+     <None Include="Assets\Script\Shader\Sprites-Tiling.shader" />
+     <None Include="Assets\Plugins\Android\AN_Res\res\values\version.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\billing\an_billing.txt" />
+     <None Include="Assets\Extensions\AndroidManifestManager\default.xml" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\Extensions\AndroidNative\Documentation\AN_VersionNotes.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\google_play\an_googleplay 1.txt" />
+     <None Include="Assets\Plugins\Android\AN_Res\res\xml\file_paths.xml" />
+     <None Include="Assets\Plugins\StansAssets\Versions\ISN_VersionInfo.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_SDF Overlay.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\libs\image-chooser-library-1.3.0.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_NativeCore.mm.txt" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_Camera.mm.txt" />
+     <None Include="Assets\Plugins\StansAssets\Versions\AN_VersionInfo.txt" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_InApp.mm.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Bitmap.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\app_licensing\an_licensing_library.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_SDF-Mobile.shader" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_SocialGate.mm.txt" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_CloudKit.mm.txt" />
+     <None Include="Assets\UniWebView\Readme.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_NativeCore.h.txt" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_Soomla.mm.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\libs\android-support-v4.txt" />
+     <None Include="Assets\Resources\food.xml" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_ReplayKit.mm.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\libs\an_sa_soomla.txt" />
+     <None Include="Assets\UseCal.xml" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_NSData+Base64.m.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\androidnative.txt" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_GameCenter.mm.txt" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_NativeCore.mm 1.txt" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_Media.mm.txt" />
+     <None Include="Assets\Plugins\StansAssets\Versions\MSP_VersionInfo.txt" />
+     <None Include="Assets\Plugins\Newtonsoft.Json.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\google_play\google-play-services.txt" />
+     <None Include="Assets\Plugins\Android\AN_Res\res\values\analytics.xml" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_SocialGate.mm 1.txt" />
+     <None Include="Assets\Facebook\Scripts\Canvas\Resources\JSSDKBindings.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\AN_Res\res\values\version.xml" />
+     <None Include="Assets\Plugins\StansAssets\IOS\ISN_NativeCore.h 1.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\social\an_social.txt" />
+     <None Include="Assets\Plugins\WP8\Newtonsoft.Json.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\billing\an_billing 1.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\social\an_social 1.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\AN_Res\res\xml\file_paths.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\AN_Res\res\values\ids.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.PlaymodeTestsRunner">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VR">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+ <Reference Include="Newtonsoft.Json">
+ <HintPath>/Users/sumetechitnumchai/oryorsmartappyear2/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityPluginForWindowsPhone">
+ <HintPath>/Users/sumetechitnumchai/oryorsmartappyear2/Assets/Plugins/UnityPluginForWindowsPhone.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

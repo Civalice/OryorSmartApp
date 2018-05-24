@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Oryor.CSharp", "UnityVS.Oryor.CSharp.csproj", "{7F29BE22-7385-02E8-1CC0-44F58E6EBA8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Oryor.CSharp.Editor", "UnityVS.Oryor.CSharp.Editor.csproj", "{3880F8A3-3FD2-7314-09BB-30E3A40C4ECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Oryor.CSharp.Plugins", "UnityVS.Oryor.CSharp.Plugins.csproj", "{FD06E84F-558E-58B1-C906-957DB20CC8DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F29BE22-7385-02E8-1CC0-44F58E6EBA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F29BE22-7385-02E8-1CC0-44F58E6EBA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F29BE22-7385-02E8-1CC0-44F58E6EBA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F29BE22-7385-02E8-1CC0-44F58E6EBA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3880F8A3-3FD2-7314-09BB-30E3A40C4ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3880F8A3-3FD2-7314-09BB-30E3A40C4ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3880F8A3-3FD2-7314-09BB-30E3A40C4ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3880F8A3-3FD2-7314-09BB-30E3A40C4ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD06E84F-558E-58B1-C906-957DB20CC8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD06E84F-558E-58B1-C906-957DB20CC8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD06E84F-558E-58B1-C906-957DB20CC8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD06E84F-558E-58B1-C906-957DB20CC8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

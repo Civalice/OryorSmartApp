@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3880F8A3-3FD2-7314-09BB-30E3A40C4ECD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace></RootNamespace>
+    <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Full v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectType>Editor:5</UnityProjectType>
+    <UnityBuildTarget>WP8Player:26</UnityBuildTarget>
+    <UnityVersion>5.0.2f1</UnityVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_0_2;UNITY_5_0;UNITY_5;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;RENDER_SOFTWARE_CURSOR;UNITY_WP8;UNITY_WP8_API;UNITY_WINRT;ENABLE_TEXTUREID_MAP;ENABLE_LAZY_METHOD_CACHING;ENABLE_MOVIES;ENABLE_PROFILER;UNITY_WINRT_8_0;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_0_2;UNITY_5_0;UNITY_5;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;RENDER_SOFTWARE_CURSOR;UNITY_WP8;UNITY_WP8_API;UNITY_WINRT;ENABLE_TEXTUREID_MAP;ENABLE_LAZY_METHOD_CACHING;ENABLE_MOVIES;ENABLE_PROFILER;UNITY_WINRT_8_0;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\UnityAssemblies\UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Graphs">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Graphs.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Android.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.WP8.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.WP8.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Metro.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Metro.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.BB10.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.BB10.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.SamsungTV.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.SamsungTV.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.WebGL.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.WebGL.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.LinuxStandalone.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.LinuxStandalone.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.WindowsStandalone.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.OSXStandalone.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.OSXStandalone.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\UnityAssemblies\UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="IFacebook">
+      <HintPath>Assets\Facebook\Scripts\IFacebook.dll</HintPath>
+    </Reference>
+    <Reference Include="GoogleAdsWP8">
+      <HintPath>Assets\Plugins\GoogleAdsWP8.dll</HintPath>
+    </Reference>
+    <Reference Include="OneSignalSDK">
+      <HintPath>Assets\Plugins\OneSignalSDK.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityPluginForWindowsPhone">
+      <HintPath>Assets\Plugins\UnityPluginForWindowsPhone.dll</HintPath>
+    </Reference>
+    <Reference Include="UniWebViewWP">
+      <HintPath>Assets\Plugins\UniWebViewWP.dll</HintPath>
+    </Reference>
+    <Reference Include="WP8Native">
+      <HintPath>Assets\Plugins\WP8Native.dll</HintPath>
+    </Reference>
+    <Reference Include="WP8PopUps">
+      <HintPath>Assets\Plugins\WP8PopUps.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+      <HintPath>Assets\UnityVS\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntaxTree.VisualStudio.Unity.Messaging">
+      <HintPath>Assets\UnityVS\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityVS.VersionSpecific">
+      <HintPath>Assets\UnityVS\Editor\UnityVS.VersionSpecific.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-UnityScript">
+      <HintPath>Library\ScriptAssemblies\Assembly-UnityScript.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="UnityVS.Oryor.CSharp.csproj">
+      <Project>{7F29BE22-7385-02E8-1CC0-44F58E6EBA8A}</Project>
+      <Name>UnityVS.Oryor.CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityVS.Oryor.CSharp.Plugins.csproj">
+      <Project>{FD06E84F-558E-58B1-C906-957DB20CC8DA}</Project>
+      <Name>UnityVS.Oryor.CSharp.Plugins</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Extensions\AndroidNative\Editor\AndroidNativeInit.cs" />
+    <Compile Include="Assets\Extensions\AndroidNative\Editor\AndroidNativeMenu.cs" />
+    <Compile Include="Assets\Extensions\AndroidNative\Editor\AndroidNativePostProcess.cs" />
+    <Compile Include="Assets\Extensions\AndroidNative\Editor\AndroidNativeSettingsEditor.cs" />
+    <Compile Include="Assets\Extensions\GooglePlayCommon\Editor\SocialPlatfromInit.cs" />
+    <Compile Include="Assets\Extensions\GooglePlayCommon\Editor\SocialPlatfromSettingsEditor.cs" />
+    <Compile Include="Assets\Extensions\IOSDeploy\Scripts\Editor\IOSDeployPostProcess.cs" />
+    <Compile Include="Assets\Extensions\IOSDeploy\Scripts\Editor\ISDSettingsEditor.cs" />
+    <Compile Include="Assets\Extensions\IOSDeploy\Scripts\Editor\PlistValueTypes.cs" />
+    <Compile Include="Assets\Extensions\IOSNative\Editor\IOSNativeMenu.cs" />
+    <Compile Include="Assets\Extensions\IOSNative\Editor\IOSNativePostProcess.cs" />
+    <Compile Include="Assets\Extensions\IOSNative\Editor\IOSNativeSettingsEditor.cs" />
+    <Compile Include="Assets\Extensions\MobileSocialPlugin\Scripts\Editor\MSPPostProcess.cs" />
+    <Compile Include="Assets\Extensions\MobileSocialPlugin\Scripts\Editor\SocialPlatfromMenu.cs" />
+    <Compile Include="Assets\Extensions\StansAssetsCommon\Editor\PluginsInstalationUtil.cs" />
+    <Compile Include="Assets\Facebook\Editor\FacebookPostprocess.cs" />
+    <Compile Include="Assets\Facebook\Editor\FacebookSettingsEditor.cs" />
+    <Compile Include="Assets\Facebook\Editor\android\FacebookAndroidUtil.cs" />
+    <Compile Include="Assets\Facebook\Editor\android\ManifestMod.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\FBPListParser.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\FixupFiles.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\PListDict.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\PBXBuildFile.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\PBXBuildPhase.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\PBXDictionary.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\PBXFileReference.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\PBXGroup.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\PBXList.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\PBXObject.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\PBXParser.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\PBXProject.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\XCBuildConfiguration.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\XCConfigurationList.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\XCFileOperationQueue.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\XCMod.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\XCProject.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\XCSourceFile.cs" />
+    <Compile Include="Assets\Facebook\Editor\iOS\third_party\XCodeEditor-for-Unity\XCTarget.cs" />
+    <Compile Include="Assets\JSON\Editor\JSONChecker.cs" />
+    <Compile Include="Assets\Script\Utilities\CustomRenderer\Editor\SortLayerRendererExtension.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\GlyphInfoDrawer.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\KerningPairDrawer.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_AdvancedLayoutEditor.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_ContextMenus.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_CreateObjectMenu.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_CreateSpriteAssetMenu.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_DistanceTransform.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_EditorPanel.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_EditorShaderUtilities.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_EditorUtility.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_FontAssetCreatorWindow.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_FontEditor.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_FontPlugin.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_SDFMaterialEditor.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_SortingLayerHelper.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_TextContainerEditor.cs" />
+    <Compile Include="Assets\TextMesh Pro\Editor\TMPro_uiEditorPanel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Extensions\AndroidManifestManager\default.xml" />
+    <None Include="Assets\Extensions\AndroidNative\Documentation\AN_VersionNotes.txt" />
+    <None Include="Assets\Extensions\IOSNative\Documentation\ISN_VersionNotes.txt" />
+    <None Include="Assets\Extensions\StansAssetsCommon\SA_FB_PlaceHolder.txt" />
+    <None Include="Assets\Font\Thai.txt" />
+    <None Include="Assets\JSON\readme.txt" />
+    <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\Android\AndroidManifest_OLD.xml" />
+    <None Include="Assets\Plugins\Android\facebook\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\Android\facebook\build.xml" />
+    <None Include="Assets\Plugins\Android\facebook\proguard-project.txt" />
+    <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_button_blue.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_button_check.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_button_like.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_button_like_selected.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_loginbutton_silver.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_picker_item_background.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_picker_list_selector.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_picker_list_selector_background_transition.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_picker_top_button.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_top_background.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_top_button.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_usersettingsfragment_background_gradient.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_friendpickerfragment.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_login_activity_layout.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_activity_circle_row.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_checkbox.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_image.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_list_row.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_list_section_header.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_search_box.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_title_bar.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_title_bar_stub.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_placepickerfragment.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_placepickerfragment_list_row.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_search_bar_layout.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_tooltip_bubble.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_usersettingsfragment.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\values\attrs.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\values\colors.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\values\drawables.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\values\strings.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\values\styles.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\values-es\strings.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\values-hdpi\dimens.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\values-he\strings.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\values-iw\strings.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\values-ldpi\dimens.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\values-mdpi\dimens.xml" />
+    <None Include="Assets\Plugins\Android\facebook\res\values-xhdpi\dimens.xml" />
+    <None Include="Assets\Plugins\Android\res\values\analytics.xml" />
+    <None Include="Assets\Plugins\Android\res\values\ids.xml" />
+    <None Include="Assets\Plugins\Android\res\values\version.xml" />
+    <None Include="Assets\Plugins\Android\res\xml\file_paths.xml" />
+    <None Include="Assets\Plugins\StansAssets\Android\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\StansAssets\Android\androidnative.txt" />
+    <None Include="Assets\Plugins\StansAssets\Android\app_licensing\an_licensing_library.txt" />
+    <None Include="Assets\Plugins\StansAssets\Android\billing\an_billing.txt" />
+    <None Include="Assets\Plugins\StansAssets\Android\google_play\an_googleplay.txt" />
+    <None Include="Assets\Plugins\StansAssets\Android\google_play\google-play-services.txt" />
+    <None Include="Assets\Plugins\StansAssets\Android\libs\android-support-v4.txt" />
+    <None Include="Assets\Plugins\StansAssets\Android\libs\image-chooser-library-1.3.0.txt" />
+    <None Include="Assets\Plugins\StansAssets\Android\OneSignalSDK.txt" />
+    <None Include="Assets\Plugins\StansAssets\Android\res\values\analytics.xml" />
+    <None Include="Assets\Plugins\StansAssets\Android\res\values\ids.xml" />
+    <None Include="Assets\Plugins\StansAssets\Android\res\values\version.xml" />
+    <None Include="Assets\Plugins\StansAssets\Android\res\xml\file_paths.xml" />
+    <None Include="Assets\Plugins\StansAssets\Android\social\an_social.txt" />
+    <None Include="Assets\Plugins\StansAssets\Android\social\twitter4j-core-3.0.5.txt" />
+    <None Include="Assets\Plugins\StansAssets\Versions\AN_VersionInfo.txt" />
+    <None Include="Assets\Plugins\StansAssets\Versions\MSP_VersionInfo.txt" />
+    <None Include="Assets\Resources\food.xml" />
+    <None Include="Assets\Resources\UseCal.xml" />
+    <None Include="Assets\Script\Shader\Sprites-Tiling.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Character List.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Bitmap.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Bitmap-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_SDF.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_SDF-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\UniWebView\ChangeLog.txt" />
+    <None Include="Assets\UniWebView\Readme.txt" />
+    <None Include="Assets\UseCal.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2013\UnityVS.CSharp.targets" />
+</Project>

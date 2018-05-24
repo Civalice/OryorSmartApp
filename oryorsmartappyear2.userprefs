@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets/Script/PageDetailed/Button/WebViewButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PageDetailed/ContentDetailed/ContentInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PageDetailed/ContentDetailed/ContentObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PageDetailed/DownloadSprite.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PageDetailed/FavItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PageDetailed/ShelfContent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PageDetailed/PageDetailGlobal.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PageDetailed/FavListController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PageDetailed/ContentPageFile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PageDetailed/ContentDetailed/ContentDetailPage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Interactive/_ShortCut/ShortCutHeader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Interactive/_ShortCut/ShortCutItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Interactive/_Tutorial/TutorialObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/UserData/UserCommonData.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

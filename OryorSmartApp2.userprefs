@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ResultLayer.cs">
+    <Files>
+      <File FileName="Assets/SelectedBT.cs" Line="42" Column="40" />
+      <File FileName="Assets/CheckDownloader.cs" Line="119" Column="14" />
+      <File FileName="Assets/ResultLayer.cs" Line="90" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
